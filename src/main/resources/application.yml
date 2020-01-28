@@ -1,0 +1,9 @@
+spring:     
+  profiles:
+    active: local  
+
+sftp:
+  host: serverhostname
+  user: serverftpuserid
+  password: serverftpuserpassword
+  remote: serverftpfolderpath
